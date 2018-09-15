@@ -1,0 +1,16 @@
+{
+  "name": "MCP4561_DIGI_POT",
+  "keywords": "MCP4561, Digital, Potentiometer, I2C",
+  "description": "Microchip MCP4561 Digital Potentionmeter Library for Arduino over I2C",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveQuinn1/MCP4561_DIGI_POT"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}

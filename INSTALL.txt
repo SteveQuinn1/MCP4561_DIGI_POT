@@ -1,0 +1,1 @@
+Put the "MCP4561_DIGI_POT" folder in your Arduino "libraries" folder. 

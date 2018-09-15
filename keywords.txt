@@ -1,0 +1,30 @@
+###############################################
+# Syntax Coloring Map For MCP4561_DIGI_POT Lib
+###############################################
+
+###############################################
+# Datatypes (KEYWORD1)
+###############################################
+
+MCP4561	KEYWORD1
+
+###############################################
+# Methods and Functions (KEYWORD2)
+###############################################
+
+MCP4561	 KEYWORD2
+potConnectAll	 KEYWORD2
+potDisconnectAll	 KEYWORD2
+potConnectSelective	KEYWORD2
+potDisconnectSelective	KEYWORD2
+readVal	KEYWORD2
+writeVal	KEYWORD2
+
+###############################################
+# Instances (KEYWORD2)
+###############################################
+
+###############################################
+# Constants (LITERAL1)
+###############################################
+
