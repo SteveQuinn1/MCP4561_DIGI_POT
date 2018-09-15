@@ -7,7 +7,7 @@ By Steve Quinn
 
 ## Test Circuit
 
-![mcp4561-test-circuit](./info/cct.jpg)
+![mcp4561-test-circuit](./info/cct.JPG)
 
 The test circuit above should be used in conjuction with the example sketch 'MCP4561_GenericPotCommands.ino' and an Arduino Uno R3
 
