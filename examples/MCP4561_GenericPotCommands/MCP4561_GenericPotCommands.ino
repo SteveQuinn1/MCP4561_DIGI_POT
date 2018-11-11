@@ -187,8 +187,8 @@ void putMenu(void)
   Serial.println(F("d     : Disconnect Pot 0"));
   Serial.println(F("c     : Connect Pot 0"));
   Serial.println(F("g     : Read ADC A0 Value"));
-  Serial.println(F("a     : Float Pot 0 High Side (R0A). ADC should read Vcc"));
+  Serial.println(F("a     : Float Pot 0 High Side (R0A). ADC should read 0v"));
   Serial.println(F("w     : Float Pot 0 Wiper (R0W). ADC value will fluctuate as it is now floating"));
-  Serial.println(F("b     : Float Pot 0 Low Side (R0B). ADC should read 0v"));
+  Serial.println(F("b     : Float Pot 0 Low Side (R0B). ADC should read Vcc"));
   Serial.println(F("--------------------------------------------------"));
 }
